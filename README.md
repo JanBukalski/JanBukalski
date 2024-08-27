@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanBukalski
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning C# and Python
+- 🌱 I’m currently learning Rust, Motoko, VUE(JS framework) and Python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me write to me on email: Janbukalski2012@gmail.com
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanBukalski
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Python, C#, Linux
+- 🌱 I’m currently learning Python, C#, Linux and React
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me write to me on email: Bukalski@proton.me
 
